@@ -73,7 +73,8 @@ pada staging sebelum proses commit.
   
 * File README.md berhasil ditambahkan.
 
-  
+  ![Screenshot (12)](https://user-images.githubusercontent.com/73042485/96400574-48c0f200-11fb-11eb-936b-0918431a29b6.png)
+
   
 # Commit (Menyimpan perubahan ke database)
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah 
