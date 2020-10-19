@@ -14,7 +14,8 @@
   
   ``git --version.``
 
-  ![git --version](https://fajars.space/ngampus/pemrograman/git/img/1.png)
+ ![Screenshot (8)](https://user-images.githubusercontent.com/73042485/96396331-2aee8f80-11f1-11eb-8c66-a8ac737404d8.png)
+
 
 # Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
@@ -63,7 +64,7 @@ pada staging sebelum proses commit.
 
 * File README.md berhasil dibuat.
 
-  ![readme.md created](https://fajars.space/ngampus/pemrograman/git/img/2.png)
+  
 
 # Menambahkan File baru pada repository
 * Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
@@ -72,7 +73,7 @@ pada staging sebelum proses commit.
   
 * File README.md berhasil ditambahkan.
 
-  ![readme.md add created](https://fajars.space/ngampus/pemrograman/git/img/3.png)
+  
   
 # Commit (Menyimpan perubahan ke database)
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah 
@@ -81,20 +82,20 @@ pada staging sebelum proses commit.
 
 * Perubahan berhasil disimpan.
   
-   ![commit pertama](https://fajars.space/ngampus/pemrograman/git/img/4.1.png)
+   
    
 # Membuat repository server
 * Server reopsitory yang akan kita gunakan adalah http://github.com, Anda harus membuat akun terlebih dahulu.
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-  ![new repo](https://fajars.space/ngampus/pemrograman/git/img/5.png)
+ 
 
 # Membuat repository server
 * Isi nama repository nya, misal: Latihan-git 
 * lalu klik tombol Create repository
   
-  ![create repo](https://fajars.space/ngampus/pemrograman/git/img/6.png)
+  
   
 # Menambahkan Remote Repository
 * Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
@@ -109,13 +110,13 @@ pada staging sebelum proses commit.
   
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-  ![push](https://fajars.space/ngampus/pemrograman/git/img/7.png)
+  
   
 # Lihat hasilnya pada server repository
 * Buka laman github.com, arahkan pada repositori- nya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-  ![rexona percaya](https://fajars.space/ngampus/pemrograman/git/img/8.png)
+  
   
 # Clone Repository
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
@@ -123,4 +124,4 @@ pada staging sebelum proses commit.
   
   ``git clone https://github.com/fajarbaiz/latihan-git.git``
 
-  ![clone](https://fajars.space/ngampus/pemrograman/git/img/9.png)
+  
