@@ -84,7 +84,8 @@ pada staging sebelum proses commit.
 
 * Perubahan berhasil disimpan.
   
-   
+   ![Screenshot (17)](https://user-images.githubusercontent.com/73042485/96401192-e23cd380-11fc-11eb-8254-f0fbb3a0baff.png)
+
    
 # Membuat repository server
 * Server reopsitory yang akan kita gunakan adalah http://github.com, Anda harus membuat akun terlebih dahulu.
