@@ -92,7 +92,8 @@ pada staging sebelum proses commit.
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
- 
+ ![2020-10-19 (2)](https://user-images.githubusercontent.com/73042485/96401486-a9e9c500-11fd-11eb-8972-51c65c3136ef.png)
+
 
 # Membuat repository server
 * Isi nama repository nya, misal: Latihan-git 
