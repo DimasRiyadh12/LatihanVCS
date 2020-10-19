@@ -64,7 +64,8 @@ pada staging sebelum proses commit.
 
 * File README.md berhasil dibuat.
 
-  
+  ![Screenshot (15)](https://user-images.githubusercontent.com/73042485/96400792-e3213580-11fb-11eb-9690-136f4f07d15f.png)
+
 
 # Menambahkan File baru pada repository
 * Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
